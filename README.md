@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-![Demo](https://im7.ezgif.com/tmp/ezgif-7-e1ea557e7bf1.gif)
+![Demo](https://github.com/wangyihong-yvonne/Demo1/blob/master/ezgif.com-gif-maker.gif?raw=true)
 
 A few resources to get you started if this is your first Flutter project:
 
